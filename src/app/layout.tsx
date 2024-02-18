@@ -1,6 +1,11 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Title from "@/components/title";
+import '@radix-ui/themes/styles.css';
+import { Theme } from '@radix-ui/themes';
+import Signal from "@/components/Head/Signal";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +21,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+
+      <body className="flex flex-col items-center justify-center h-screen bg-[url('/img/bg2.jpg')] bg-cover ">
+        <Theme>
+          <section className="shadow-2xl p-6 rounded-2xl backdrop-blur-sm bg-white/50">
+            <Signal />
+            <Title />
+            {children}
+          </section>
+        </Theme>
+      </body>
     </html>
   );
 }
