@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=Sass&logoColor=red"/>
 </p>
 
-<img width="850" alt="image" src="https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/8f4939e6-794e-4407-81cc-42942a68f08d">
+![2024-02-21-18-19-10-Trim](https://github.com/htkim97/simply_Scheduler/assets/52130444/8bc868a5-6e40-4f57-a02b-1abcd2c78938)
 
 <br/>
 
@@ -23,9 +23,6 @@
 - 기술 스택 : TypeScript, JavaScript, Tailwind, Sass, NextJS
 - 외부 자원 : Radix UI, Radix Icon
 
-## 내용
-
-![2024-02-21-18-19-10-Trim](https://github.com/htkim97/simply_Scheduler/assets/52130444/8bc868a5-6e40-4f57-a02b-1abcd2c78938)
 
 
 
