@@ -25,6 +25,7 @@
 
 ## 내용
 
-![2024-02-21-18-19-10-Trim](https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/4c669cfb-f0a7-4b7a-8d2a-6179564fd42c)
+![2024-02-21-18-19-10-Trim](https://github.com/htkim97/simply_Scheduler/assets/52130444/8bc868a5-6e40-4f57-a02b-1abcd2c78938)
+
 
 
