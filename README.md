@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <h1 align="center">🙌 Hyeontae's PortFolio 🙌</h1>
+  <p align="center">
+ <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js&logoColor=ffff"/>
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=Sass&logoColor=red"/>
+</p>
 
-## Getting Started
+<img width="850" alt="image" src="https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/8f4939e6-794e-4407-81cc-42942a68f08d">
 
-First, run the development server:
+<br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 개요
+ 
+  리액트 토이프로젝트 simple-note app 입니다
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 기술
 
-## Learn More
+- 개발 환경 : visual code
+- 기술 스택 : TypeScript, JavaScript, Tailwind, Sass, NextJS
+- 외부 자원 : Radix UI, Radix Icon
 
-To learn more about Next.js, take a look at the following resources:
+## 내용
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![2024-02-21-18-19-10-Trim](https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/4c669cfb-f0a7-4b7a-8d2a-6179564fd42c)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
